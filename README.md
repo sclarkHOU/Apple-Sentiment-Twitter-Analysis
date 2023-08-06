@@ -77,18 +77,17 @@ We were able to get an F1 score of 80% by using stochastic gradient descent (SGD
 
 ### Repository Structure
 
-├── brandandproductemotions.csv
-
-├── Twitter Sentiment Analysis .pdf
+├── gitignore.txt
 
 ├── Analysis of Apple Sentiment on Twitter.ipynb
 
-├── Analysis of Apple Sentiment on Twitter.pdf
+├──  Analysis_of_Apple_Sentiment_on_Twitter.pdf
 
-├── README.md
+├── README.md 
 
-├── gitignore.txt
+├── Twitter Sentiment Analysis.pdf
 
+├── brandandproductemotions.csv
 
 
 
