@@ -1,4 +1,7 @@
 # Apple Sentiment Twitter Analysis
+
+![image](https://github.com/sclarkHOU/Phase_4_Project/assets/56837718/4f98efca-2d75-4097-bf96-86a71536551c)
+
 ### Team Members:
 - Sean Harris, Technical Lead
 - Stuart Clark, GitHub Lead
