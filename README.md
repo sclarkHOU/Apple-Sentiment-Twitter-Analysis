@@ -75,7 +75,7 @@ We were able to get an F1 score of 80% by using stochastic gradient descent (SGD
 
 ### Repository Structure
 
-├── Data
+├── brandandproductemotions.csv
 
 ├── Twitter Sentiment Analysis .pdf
 
