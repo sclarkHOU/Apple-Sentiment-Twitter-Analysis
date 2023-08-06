@@ -76,6 +76,7 @@ We were able to get an F1 score of 80% by using stochastic gradient descent (SGD
  [Sean Harris](https://github.com/smharris312)
 
 ### Repository Structure
+├── images
 
 ├── gitignore.txt
 
