@@ -8,7 +8,6 @@
 ## Business Situation
 We have been tasked with analyzing Twitter 2011 data from SXSW and creating a model of positive and negative tweets. We want to figure out how consumers feel about their products. The data set has been provided to us and already has some classification applied to the tweets such as brand and sentiment.
 
-## Explore the data.
 - Develop a model on positive and negative consumer sentiment.
 - Provide recommendations to Apple’s Marketing and Product Design teams.
 
